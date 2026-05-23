@@ -5,7 +5,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta (UTY) with a str
 ### About Me
 - Currently working on applying Machine Learning to real-world problems.
 - **Awards:** 2x 1st Place National Web Development Champion (2025).
-- **Experience:** Data Analyst Intern, Assistant Lecturer (Machine Learning & Data Analysis), and AI Developer.
+- **Experience:** AI Developer Intern, Data Analyst Intern, Research Assitant (KEMDIKTISAINTEK Funded), and Assistant Lecturer (Machine Learning & Data Analysis).
 - Reach me at: zakkifarian84@gmail.com
 
 ### Languages and Tools
