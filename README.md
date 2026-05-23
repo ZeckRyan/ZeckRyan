@@ -3,12 +3,12 @@
 I am an Informatics student at Universitas Teknologi Yogyakarta (UTY) with a strong passion for **Data Science, Machine Learning, and Web Development**. Currently working as a Data Analyst Intern and an AI Developer.
 
 ### About Me
-- 🔭 Currently working on applying Machine Learning to real-world problems.
-- 🏆 **Awards:** 2x 1st Place National Web Development Champion (2025).
-- 👨‍🏫 **Experience:** Data Analyst Intern, Assistant Lecturer (Machine Learning & Data Analysis), and AI Developer.
-- 📫 Reach me at: zakkifarian84@gmail.com
+- Currently working on applying Machine Learning to real-world problems.
+- **Awards:** 2x 1st Place National Web Development Champion (2025).
+- **Experience:** Data Analyst Intern, Assistant Lecturer (Machine Learning & Data Analysis), and AI Developer.
+- Reach me at: zakkifarian84@gmail.com
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 **Data Science & Machine Learning:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
